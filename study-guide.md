@@ -1,4 +1,4 @@
-# Backend Engineering Study Strategy
+# Software Engineering Study Strategy
 
 > How to run the Software Engineering Curriculum: efficient learning, durable retention, deep mastery, strong hiring potential.
 
